@@ -7,7 +7,7 @@ This repository provides methods for aligning OCR-generated texts with Ground Tr
 - **Deterministic Alignment**: Needleman-Wunsch algorithm based on edit distance (Levenshtein).
 - **Embedding-based Alignments**:
   - **MiniLM multilingual model** (`paraphrase-multilingual-MiniLM-L12-v2`).
-  - **IndicSBERT-v2-SS model** (`l3cube-pune/indic-sentence-similarity-sbert`).
+  - **indic-sentence-similarity-sbert** (`l3cube-pune/indic-sentence-similarity-sbert`).
 
 ## Installation
 
